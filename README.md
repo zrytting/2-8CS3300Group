@@ -13,6 +13,6 @@ Jacob, Jacob, Taraika, Zachary
 |         Member        |        Role     |  
 |         :---:         |       :---:     |
 |        Jacob B.       |    Scrum Lead   | 
-|        Zach R?        |      Member     |
-|       Taraika J.      |      Member     |
-|        Jacob H?       |    Tech Lead    | 
+|        Zach R.        |      Member     |
+|       Takaiya J.      |      Member     |
+|        Jacob H.       |    Tech Lead    | 
