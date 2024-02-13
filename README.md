@@ -1,5 +1,5 @@
 # JacobsandnotJacobsGroup
-Jacob, Jacob, Taraika, Zachary
+Jacob, Jacob, Takaiya, Zachary
 
 # Current Asssignement
 * Assignment : GE02
